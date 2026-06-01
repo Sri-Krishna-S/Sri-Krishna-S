@@ -46,14 +46,15 @@
 ### Currently, I'm working on
 
 ```
--  Building ML projects in order to strengthen my fundamentals
--  Solving DSA problem using java {why java? : cuz its tuff} 
--  Exploring open-source AI/ML projects
+-  Building ML projects while documenting it in order to strengthen my fundamentals 
+-  Solving DSA problem using java in leetcode {why java? : cuz its tuff} 
+-  Exploring open-source AI/ML projects (like the pewdiepie's Odysseus)
 ```
 
 ---
 
 ###  Let's Connect
+Let's talk about politics & economic state of the world.  
 I'm open to Internships and collaboration. So let's collaborate >< 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-venkada-krishnan-s)
