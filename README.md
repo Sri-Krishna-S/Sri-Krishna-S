@@ -29,7 +29,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Infra & Tools**  
+**Infrastructure & Tools**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white) 
@@ -46,7 +46,7 @@
 ### Currently, I'm working on
 
 ```
--  Building ML projects while documenting it in order to strengthen my fundamentals 
+-  Building AI/ML projects while documenting it in order to strengthen my fundamentals 
 -  Solving DSA problem using java in leetcode {why java? : cuz its tuff} 
 -  Exploring open-source AI/ML projects (like the pewdiepie's Odysseus)
 ```
@@ -54,8 +54,7 @@
 ---
 
 ###  Let's Connect
-Let's talk about politics & economic state of the world.  
-I'm open to Internships and collaboration. So let's collaborate >< 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sri-venkada-krishnan-s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:[srivenkada.krishnan@gmail.com])
+And talk about politics & economic state of the world.
+I'm open to Internships & collaborations. So let's collaborate ><
+*   **Email:** [srivenkada.krishnan@gmail.com](mailto:srivenkada.krishnan@gmail.com)
+*   **LinkedIn:** [Reach out on LinkedIn](https://www.linkedin.com/in/sri-venkada-krishnan-s) 
