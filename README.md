@@ -54,7 +54,7 @@
 ---
 
 ###  Let's Connect
-And talk about politics & economic state of the world.
-I'm open to Internships & collaborations. So let's collaborate ><
+And talk about politics & economic state of the world.   
+I'm open to Internships & collaborations, So let's collaborate ><
 *   **Email:** [srivenkada.krishnan@gmail.com](mailto:srivenkada.krishnan@gmail.com)
-*   **LinkedIn:** [Reach out on LinkedIn](https://www.linkedin.com/in/sri-venkada-krishnan-s) 
+*   **LinkedIn:** [Reach me out on LinkedIn](https://www.linkedin.com/in/sri-venkada-krishnan-s) 
